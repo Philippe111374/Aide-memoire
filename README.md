@@ -1,4 +1,4 @@
 Aide-memoire
 ============
 
-Aide-mémoir musical à l'usage des débutants comme moi
+Aide-mémoire musical à l'usage des débutants comme moi.
